@@ -1,0 +1,9 @@
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# Data files (ignored)
+data/
+*.csv
+fer2013.csv
