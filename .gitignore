@@ -8,3 +8,4 @@ data/
 *.csv
 fer2013.csv
 *.pickle
+*.h5
