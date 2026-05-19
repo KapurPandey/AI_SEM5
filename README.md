@@ -10,7 +10,7 @@ This project classifies facial expressions into 7 emotion categories:
 
 The model uses a CNN trained on the FER2013 dataset (~35,000 grayscale images) and runs real-time inference via webcam using OpenCV.
 
-![GradCam_Output](Image/Screenshot 2026-05-19 232453.png)
+![GradCam_Output](Image/TestImg.png)
 
 ## Project Structure
 
